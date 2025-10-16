@@ -1,2 +1,7 @@
-# riscv-hpc-benchmarks
-The HPC SIG is compiling a curated set of HPC-relevant benchmarks and configurations that vendors and tool developers can use to evaluate performance.
+# RISC-V HPC Benchmarks
+
+This repository contains a curated set of common benchmarks that RISC-V contributors should consider when undertaking performance modelling of their libraries, tools and hardware. 
+
+## Under construction
+
+This is currently under construction, check back for details on how to run
