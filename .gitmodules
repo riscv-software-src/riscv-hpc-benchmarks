@@ -13,3 +13,9 @@
 [submodule "benchmarks/spatter/spatter"]
 	path = benchmarks/spatter/spatter
 	url = https://github.com/hpcgarage/spatter.git
+[submodule "benchmarks/scientific/quicksilver/Quicksilver"]
+	path = benchmarks/scientific/quicksilver/Quicksilver
+	url = https://github.com/LLNL/Quicksilver.git
+[submodule "benchmarks/scientific/sw4lite/sw4lite"]
+	path = benchmarks/scientific/sw4lite/sw4lite
+	url = https://github.com/geodynamics/sw4lite.git
