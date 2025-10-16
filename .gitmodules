@@ -19,3 +19,18 @@
 [submodule "benchmarks/scientific/sw4lite/sw4lite"]
 	path = benchmarks/scientific/sw4lite/sw4lite
 	url = https://github.com/geodynamics/sw4lite.git
+[submodule "benchmarks/scientific/hpcg/hpcg"]
+	path = benchmarks/scientific/hpcg/hpcg
+	url = https://github.com/hpcg-benchmark/hpcg
+[submodule "benchmarks/scientific/lulesh/LULESH"]
+	path = benchmarks/scientific/lulesh/LULESH
+	url = https://github.com/LLNL/LULESH
+[submodule "benchmarks/scientific/miniMD/miniMD"]
+	path = benchmarks/scientific/miniMD/miniMD
+	url = https://github.com/Mantevo/miniMD.git
+[submodule "benchmarks/kernels/spatter/spatter"]
+	path = benchmarks/kernels/spatter/spatter
+	url = https://github.com/hpcgarage/spatter.git
+[submodule "benchmarks/kernels/stream/STREAM"]
+	path = benchmarks/kernels/stream/STREAM
+	url = https://github.com/jeffhammond/STREAM.git
