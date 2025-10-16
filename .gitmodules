@@ -4,3 +4,6 @@
 [submodule "benchmarks/lulesh/LULESH"]
 	path = benchmarks/lulesh/LULESH
 	url = https://github.com/LLNL/LULESH
+[submodule "benchmarks/miniMD/miniMD"]
+	path = benchmarks/miniMD/miniMD
+	url = https://github.com/Mantevo/miniMD.git
