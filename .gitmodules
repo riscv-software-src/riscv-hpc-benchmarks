@@ -7,3 +7,6 @@
 [submodule "benchmarks/miniMD/miniMD"]
 	path = benchmarks/miniMD/miniMD
 	url = https://github.com/Mantevo/miniMD.git
+[submodule "benchmarks/stream/STREAM"]
+	path = benchmarks/stream/STREAM
+	url = https://github.com/jeffhammond/STREAM.git
