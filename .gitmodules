@@ -1,0 +1,3 @@
+[submodule "benchmarks/hpcg/hpcg"]
+	path = benchmarks/hpcg/hpcg
+	url = https://github.com/hpcg-benchmark/hpcg
