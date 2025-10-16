@@ -34,3 +34,6 @@
 [submodule "benchmarks/kernels/stream/STREAM"]
 	path = benchmarks/kernels/stream/STREAM
 	url = https://github.com/jeffhammond/STREAM.git
+[submodule "benchmarks/scientific/npb/NPB"]
+	path = benchmarks/scientific/npb/NPB
+	url = https://github.com/LLNL/NPB.git
