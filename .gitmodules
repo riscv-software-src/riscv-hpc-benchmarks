@@ -10,3 +10,6 @@
 [submodule "benchmarks/stream/STREAM"]
 	path = benchmarks/stream/STREAM
 	url = https://github.com/jeffhammond/STREAM.git
+[submodule "benchmarks/spatter/spatter"]
+	path = benchmarks/spatter/spatter
+	url = https://github.com/hpcgarage/spatter.git
