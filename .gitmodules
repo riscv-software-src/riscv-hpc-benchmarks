@@ -1,3 +1,6 @@
 [submodule "benchmarks/hpcg/hpcg"]
 	path = benchmarks/hpcg/hpcg
 	url = https://github.com/hpcg-benchmark/hpcg
+[submodule "benchmarks/lulesh/LULESH"]
+	path = benchmarks/lulesh/LULESH
+	url = https://github.com/LLNL/LULESH
